@@ -1,4 +1,4 @@
-# AltairEmu# AltairEmu
+# AltairEmu
 
 A fully-functional, cycle-accurate* emulation of the Altair 8800 and its front panel. This emulator currently provides no peripherals whatsoever, you get the Altair front panel and 64K of empty RAM. However, it is possible peripherals like serial boards and cassette interfaces will be added in future updates. All states are emulated, though certain operations are not performed during the correct state or through accurate means, either due to simplicity or documentation ambiguity. All timing is accurate, and every instruction is accurate per machine-cycle.
 
@@ -26,3 +26,8 @@ The bus pull-ups for the front panel and the buffers are not fully emulated, how
 
 - .NET 8.0
 - Patience
+
+## Demo Video
+
+https://github.com/user-attachments/assets/412beda6-401d-4210-bfa8-03beaba70871
+
